@@ -1,1 +1,1 @@
-{"class":"org.apache.spark.ml.feature.IDFModel","timestamp":1615475172338,"sparkVersion":"2.4.5","uid":"idf_152f2e373b81","paramMap":{"outputCol":"features","inputCol":"rawFeatures"},"defaultParamMap":{"outputCol":"idf_152f2e373b81__output","minDocFreq":0}}
+{"class":"org.apache.spark.ml.feature.IDFModel","timestamp":1631090716387,"sparkVersion":"2.4.5","uid":"idf_b38fb8be7206","paramMap":{"inputCol":"rawFeatures","outputCol":"features"},"defaultParamMap":{"minDocFreq":0,"outputCol":"idf_b38fb8be7206__output"}}
